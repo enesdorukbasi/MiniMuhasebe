@@ -1,0 +1,133 @@
+﻿@model IEnumerable<MiniMuhasebeci.Models.tblCariHareketleri>
+ 
+@{
+    ViewBag.Title = "Cari Hareketleri";
+}
+
+
+<br />
+<br />
+<br />
+<p>
+    <a href="@Url.Action("Create")" title="Yeni Kayıt"
+       style="
+        background: white;
+        height:60px;
+        width: 280px;
+        outline: none;
+        padding: 8px;
+        border-radius: 5px;
+        border: 1px solid #0ec943;
+        color: #0ec943;
+        font-size: 20px;
+        font-weight: 500;
+        cursor: pointer;"><i class="bi bi-plus-circle" style="color:#0ec943"></i></a>
+    <input type="text" name="search" id="search" class="form-control" style="display:inline; margin-left:20px;" />
+    @section scriptsAra1{
+        <script>
+            jQuery.expr[':'].contains = function (a, i, m) {
+                return jQuery(a).text().toUpperCase()
+                    .indexOf(m[3].toUpperCase()) >= 0;
+            };
+            $(document).ready(function () {
+                $("#search").keyup(function () {
+                    var data = this.value.split(" ");
+                    var table = $(".table").find("tr");
+
+                    if (this.value == "") {
+                        table.show();
+                        return;
+                    }
+                    table.hide();
+                    table.filter(function (i, v) {
+                        var $t = $(this);
+                        for (var d = 0; d < data.length; ++d) {
+                            if ($t.is(":contains('" + data[d] + "')")) {
+
+                                return true;
+                            }
+                        }
+                        return false;
+                    }).show();
+                });
+            });
+        </script>
+    }
+</p>
+
+<br />
+<br />
+
+<div class="header_fixed">
+    <table class="table" id="tblCariHareketleri">
+        <thead>
+            <tr>
+                <th>Tarih</th>
+                <th>İşlem Tipi</th>
+                <th>İşlem Türü</th>
+                <th>Borç</th>
+                <th>Alacak</th>
+                <th>Ünvan</th>
+                <th>Ad </th>
+                <th>Soyad</th>
+                <th>Açıklama</th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in ViewBag.cariHareketleriList)
+            {
+                <tr>
+                    <td>@Convert.ToDateTime(item.Tarih).ToString("dd/MM/yyyy HH/mm")</td>
+                    <td>@item.IslemTipi</td>
+                    <td>@item.IslemTuru</td>
+                    <td>@item.Borc</td>
+                    <td>@item.Alacak</td>
+                    <td>@item.tblCari.Unvan</td>
+                    <td>@item.tblCari.Ad</td>
+                    <td>@item.tblCari.Soyad</td>
+                    <td>@item.Aciklama</td>
+                    <td>
+                        @*<button type="button" data-toggle="modal" data-target="#Modal1" style="background: white; outline: none; padding: 8px; border-radius: 5px; color: #0f08cf; font-size: 20px; font-weight: 500; border: 1px solid #0f08cf; cursor: pointer;">
+                            <i class="bi bi-file-earmark-text" style="color:#0f08cf"></i>
+                        </button>*@
+
+                        <a href="@Url.Action("Details", new { id = item.Id })" class="btn btn-xs" title="Detay" style="
+                             background: white;
+                            
+                             outline: none;
+                             padding: 8px;
+                             border-radius: 5px;
+                             color: #0f08cf;
+                             font-size: 20px;
+                             font-weight: 500;
+                             border: 1px solid #0f08cf;
+                             cursor: pointer;"><i class="bi bi-file-earmark-text" style="color:#0f08cf"></i></a>
+                        <a href="@Url.Action("Delete", new { id = item.Id})" class="btn btn-xs" title="Sil" style="
+                             background: white;
+                             outline: none;
+                             padding: 8px;
+                             border-radius: 5px;
+                             border: 1px solid #d63031;
+                             color: #d63031;
+                             font-size: 20px;
+                             font-weight: 500;
+                             border: 1px solid #ed9026;
+                             cursor: pointer;"><i class="bi bi-trash" style="color:#ed9026"></i></a>
+                        <a href="@Url.Action("Edit", new { id = item.Id})" class="btn btn-xs"title="Düzelt" style="color:#ed9026;
+                             outline: none;
+                             padding: 8px;
+                             border-radius: 5px;
+                             color: #fff;
+                             font-size: 20px;
+                             font-weight: 500;
+                             background: white;
+                             border: 1px solid #d63031;
+                             cursor: pointer;"><i class="bi bi-pen" style="color:#ad188b"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DasProjeDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DasProjeDb.dbo.tblCari' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="tblCari">
+    <Key>
+      <PropertyRef Name="CariId" />
+    </Key>
+    <Property Name="CariId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Unvan" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ad" Type="nvarchar" MaxLength="50" />
+    <Property Name="Soyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="Adres" Type="nvarchar" MaxLength="50" />
+    <Property Name="Telefon" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DasProjeDb.dbo.tblCariHareketleri' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="tblCariHareketleri">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CariId" Type="int" />
+    <Property Name="Tarih" Type="datetime" />
+    <Property Name="IslemTipi" Type="nvarchar" MaxLength="50" />
+    <Property Name="IslemTuru" Type="nvarchar" MaxLength="50" />
+    <Property Name="Borc" Type="money" />
+    <Property Name="Alacak" Type="money" />
+    <Property Name="Aciklama" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="DasProjeDbModelStoreContainer">
+    <EntitySet Name="tblCari" EntityType="Self.tblCari" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [tblCari].[CariId] AS [CariId], 
+    [tblCari].[Unvan] AS [Unvan], 
+    [tblCari].[Ad] AS [Ad], 
+    [tblCari].[Soyad] AS [Soyad], 
+    [tblCari].[Adres] AS [Adres], 
+    [tblCari].[Telefon] AS [Telefon]
+    FROM [dbo].[tblCari] AS [tblCari]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="tblCariHareketleri" EntityType="Self.tblCariHareketleri" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [tblCariHareketleri].[Id] AS [Id], 
+    [tblCariHareketleri].[CariId] AS [CariId], 
+    [tblCariHareketleri].[Tarih] AS [Tarih], 
+    [tblCariHareketleri].[IslemTipi] AS [IslemTipi], 
+    [tblCariHareketleri].[IslemTuru] AS [IslemTuru], 
+    [tblCariHareketleri].[Borc] AS [Borc], 
+    [tblCariHareketleri].[Alacak] AS [Alacak], 
+    [tblCariHareketleri].[Aciklama] AS [Aciklama]
+    FROM [dbo].[tblCariHareketleri] AS [tblCariHareketleri]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

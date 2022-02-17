@@ -1,0 +1,476 @@
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll.config
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.pdb
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe.config
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.rsp
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.exe
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.rsp
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.AppContext.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Collections.Immutable.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Reflection.Metadata.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe.config
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.rsp
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe.config
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.Web.Infrastructure.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.xml
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.xml
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.xml
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.xml
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.xml
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.xml
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.xml
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.xml
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CoreCompileInputs.cache
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CopyComplete
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.dll
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.pdb
+D:\ENES DORUKBAŞI\Projeler\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csprojAssemblyReference.cache
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll.config
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.pdb
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe.config
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.rsp
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.exe
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.rsp
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.AppContext.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe.config
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.rsp
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.xml
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.xml
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.xml
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.xml
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.xml
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.xml
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.xml
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csprojAssemblyReference.cache
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CoreCompileInputs.cache
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CopyComplete
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.dll
+C:\Users\AYLA\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.pdb
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll.config
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.pdb
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe.config
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.rsp
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.exe
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.rsp
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.AppContext.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe.config
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.rsp
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.xml
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.xml
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.xml
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.xml
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.xml
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.xml
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.xml
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csprojAssemblyReference.cache
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CoreCompileInputs.cache
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CopyComplete
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.dll
+C:\Users\AYLA\Downloads\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.pdb
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll.config
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.pdb
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe.config
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.rsp
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.exe
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.rsp
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.AppContext.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe.config
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.rsp
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.xml
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.xml
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.xml
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.xml
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.xml
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.xml
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.xml
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csprojAssemblyReference.cache
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CoreCompileInputs.cache
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CopyComplete
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.dll
+C:\Users\AYLA\Downloads\Compressed\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.pdb
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll.config
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.pdb
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe.config
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.rsp
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.exe
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.rsp
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.AppContext.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe.config
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.rsp
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.xml
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.xml
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.xml
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.xml
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.xml
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.xml
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.xml
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csprojAssemblyReference.cache
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CoreCompileInputs.cache
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CopyComplete
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.dll
+C:\Users\DAS-Cemile\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.pdb
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CoreCompileInputs.cache
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.pdb
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll.config
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.pdb
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe.config
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.rsp
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.exe
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.rsp
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.AppContext.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe.config
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.rsp
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.dll
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.xml
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.xml
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.xml
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.xml
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.xml
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.xml
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.xml
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.xml
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CopyComplete
+C:\Users\13BEM\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.AssemblyReference.cache
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CoreCompileInputs.cache
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.pdb
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll.config
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.pdb
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe.config
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.rsp
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.exe
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.rsp
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.AppContext.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe.config
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.rsp
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CopyComplete
+C:\Users\enesd\Desktop\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csprojAssemblyReference.cache
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll.config
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.pdb
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe.config
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.rsp
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.exe
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.rsp
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.AppContext.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe.config
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.rsp
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.xml
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.xml
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.xml
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.xml
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.xml
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.xml
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.xml
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csprojAssemblyReference.cache
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CoreCompileInputs.cache
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CopyComplete
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.dll
+C:\Users\ulas\OneDrive\Masaüstü\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.pdb
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll.config
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\MiniMuhasebeci.pdb
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.exe.config
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csc.rsp
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.exe
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\csi.rsp
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.AppContext.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.exe.config
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\vbc.rsp
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\EntityFramework.SqlServer.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Razor.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Deployment.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Webpages.Razor.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Helpers.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\System.Web.Mvc.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CoreCompileInputs.cache
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.csproj.CopyComplete
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.dll
+C:\Users\enesd\Desktop\MiniMuhasebeci (1)\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\MiniMuhasebeci\obj\Debug\MiniMuhasebeci.pdb

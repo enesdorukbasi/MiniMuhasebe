@@ -1,0 +1,111 @@
+﻿
+
+@{
+    ViewBag.Title = "Cari Listesi";
+}
+
+
+<br />
+<br />
+<br />
+
+<p>
+    <a href="@Url.Action("Create")" title="Yeni Kayıt" style="
+        background: white;
+        height:60px;
+        width: 280px;
+        outline: none;
+        padding: 8px;
+        border-radius: 5px;
+        border: 1px solid #0ec943;
+        color: #0ec943;
+        font-size: 20px;
+        font-weight: 500;
+        cursor: pointer;"><i class="bi bi-plus-circle" style="color:#0ec943"></i></a>
+    <input type="text" name="search" id="search" class="form-control" style="display:inline; margin-left:20px;" />
+
+    @section scriptsAra{
+        <script>
+            jQuery.expr[':'].contains = function (a, i, m) {
+                return jQuery(a).text().toUpperCase()
+                    .indexOf(m[3].toUpperCase()) >= 0;
+            };
+                $(document).ready(function () {
+                    $("#search").keyup(function () {
+                        var data = this.value.split(" ");
+                        var table = $(".table").find("tr");
+                        if (this.value == "") {
+                            table.show();
+                            return;
+                        }
+                        table.hide();
+                        table.filter(function (i, v) {
+                            var $t = $(this);
+                            for (var d = 0; d < data.length; ++d) {
+                                if ($t.is(":contains('" + data[d] + "')")) {
+                                    return true;
+                                }
+                            }
+                            return false;
+                        }).show();
+                    });
+                });
+            </script>
+
+
+    }
+
+</p>
+
+
+<br />
+<br />
+
+
+<div class="header_fixed">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Unvan</th>
+                <th>Ad</th>
+                <th>Soyad</th>
+                <th>Adres</th>
+                <th>Telefon</th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in ViewBag.cariList)
+            {
+                <tr>
+                    <td>@item.Unvan</td>
+                    <td>@item.Ad</td>
+                    <td>@item.Soyad</td>
+                    <td>@item.Adres</td>
+                    <td>@item.Telefon</td>
+                    <td>
+                        <a href="@Url.Action("Delete", new { id = item.CariId })" title="Sil" class="btn btn-xs" style="
+                                 background: #fff;
+                                 outline: none;
+                                 padding: 8px;
+                                 border-radius: 5px;
+                                 border: 1px solid #d63031;
+                                 font-size: 20px;
+                                 font-weight: 500;
+                                 cursor: pointer;"><i class="bi bi-trash" style="color:#ed9026;"></i></a>
+                        <a href="@Url.Action("Edit", new { id = item.CariId })" title="Düzelt" class="btn btn-xs" style="color:#ed9026;
+                                 background: white;
+                                 outline: none;
+                                 padding: 8px;
+                                 border-radius: 5px;
+                                 border: 1px solid #d63031;
+                                 font-size: 20px;
+                                 font-weight: 500;
+                                 cursor: pointer;"><i class="bi bi-pen" style="color:#ad188b;"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

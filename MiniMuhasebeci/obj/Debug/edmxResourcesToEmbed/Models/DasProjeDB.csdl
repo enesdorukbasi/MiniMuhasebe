@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DasProjeDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblCari">
+    <Key>
+      <PropertyRef Name="CariId" />
+    </Key>
+    <Property Name="CariId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Unvan" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Adres" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblCariHareketleri" Relationship="Self.FK__tblCariHa__CariI__25869641" FromRole="tblCari" ToRole="tblCariHareketleri" />
+  </EntityType>
+  <EntityType Name="tblCariHareketleri">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CariId" Type="Int32" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="IslemTipi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IslemTuru" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Borc" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Alacak" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Aciklama" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblCari" Relationship="Self.FK__tblCariHa__CariI__25869641" FromRole="tblCariHareketleri" ToRole="tblCari" />
+  </EntityType>
+  <Association Name="FK__tblCariHa__CariI__25869641">
+    <End Role="tblCari" Type="Self.tblCari" Multiplicity="1" />
+    <End Role="tblCariHareketleri" Type="Self.tblCariHareketleri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblCari">
+        <PropertyRef Name="CariId" />
+      </Principal>
+      <Dependent Role="tblCariHareketleri">
+        <PropertyRef Name="CariId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DasProjeDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblCari" EntityType="Self.tblCari" />
+    <EntitySet Name="tblCariHareketleri" EntityType="Self.tblCariHareketleri" />
+    <AssociationSet Name="FK__tblCariHa__CariI__25869641" Association="Self.FK__tblCariHa__CariI__25869641">
+      <End Role="tblCari" EntitySet="tblCari" />
+      <End Role="tblCariHareketleri" EntitySet="tblCariHareketleri" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

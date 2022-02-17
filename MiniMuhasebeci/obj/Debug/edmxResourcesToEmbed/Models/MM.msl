@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DasProjeDbModelStoreContainer" CdmEntityContainer="DasProjeDbEntities">
+    <EntitySetMapping Name="tblCari">
+      <EntityTypeMapping TypeName="DasProjeDbModel.tblCari">
+        <MappingFragment StoreEntitySet="tblCari">
+          <ScalarProperty Name="CariId" ColumnName="CariId" />
+          <ScalarProperty Name="Unvan" ColumnName="Unvan" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCariHareketleri">
+      <EntityTypeMapping TypeName="DasProjeDbModel.tblCariHareketleri">
+        <MappingFragment StoreEntitySet="tblCariHareketleri">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CariId" ColumnName="CariId" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="IslemTipi" ColumnName="IslemTipi" />
+          <ScalarProperty Name="IslemTuru" ColumnName="IslemTuru" />
+          <ScalarProperty Name="Borc" ColumnName="Borc" />
+          <ScalarProperty Name="Alacak" ColumnName="Alacak" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

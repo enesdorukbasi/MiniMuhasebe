@@ -1,0 +1,74 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    justify-content: center;
+    font-family: 'Poppins',sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.header_fixed {
+    height: 500px;
+    overflow: auto;
+    margin-top: 30px;
+    border: 1px solid #d63031;
+}
+
+    .header_fixed thead th {
+        position: sticky;
+        top: 0;
+        background-color: #d63031;
+        color: #fff;
+        font-size: 15px;
+        font-weight: 800;
+    }
+
+th, td {
+    border-bottom: 1px solid #d63031;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(225, 112, 85);
+}
+
+tr:nth-child(odd) {
+    background-color: rgba(255, 118, 117,0.4);
+}
+
+tr:hover td {
+    color: white;
+    cursor: pointer;
+    background-color: #d63031;
+}
+
+
+td .a {
+    border: none;
+    padding: 7px 20px;
+    border-radius: 20px;
+    background-color: white;
+    color: #d63031;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgb(214, 48, 49,0.3);
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: inset 0 0 6px rgb(214, 48, 49,0.3);
+}

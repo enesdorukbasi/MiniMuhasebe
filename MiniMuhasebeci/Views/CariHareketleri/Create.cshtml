@@ -1,0 +1,150 @@
+﻿@model MiniMuhasebeci.Models.tblCariHareketleri
+
+<head>
+    <link href="~/Content/AddUpdate.css" rel="stylesheet" />
+    <script src="~/Scripts/shortcut.js" type="text/javascript"></script>
+    <script src="~/Scripts/shortcut.js"></script>
+    <script language="JavaScript">
+    </script>
+    <style>
+        #divscroll {
+            overflow-y: scroll;
+        }
+    </style>
+</head>
+
+<body id="divscroll">
+
+    <br />
+    <br />
+    <br />
+
+    <div class="container">
+        <div class="wrapper">
+            <div class="title"><span>Cari Hareketi Kaydı</span></div>
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <label for="id ismi"> Ünvan </label>
+                    <div class="row">
+                        @Html.DropDownListFor(x => x.CariId, ViewBag.CariId as SelectList, "Cari Seçiniz.", new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.CariId, "", new { @class = "text-danger" })
+
+                    </div>
+                    <br />
+                    <label for="id ismi"> Tarih </label>
+                    <div class="row">
+                        @Html.EditorFor(model => model.Tarih, new { htmlAttributes = new { type = "datetime-local", @class = "form-control", placeholder = "Tarih Giriniz" } })
+                        @Html.ValidationMessageFor(model => model.Tarih, "", new { @class = "text-danger" })
+                    </div>
+                    <br />
+                    <label for="id ismi"> İşlem Tipi </label>
+                    <div class="row">
+                        @Html.DropDownListFor(x => x.IslemTipi, ViewBag.IslemTipi as SelectList, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.IslemTipi, "", new { @class = "text-danger" })
+                    </div>
+                    <br />
+                    <label for="id ismi"> İşlem Türü </label>
+                    <div class="row">
+                        @Html.DropDownListFor(x => x.IslemTuru, ViewBag.IslemTuru as SelectList, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.IslemTuru, "", new { @class = "text-danger" })
+                    </div>
+                    <br />
+                    <label for="id ismi">Borç </label>
+                    <div class="row">
+                        @Html.EditorFor(model => model.Borc, new { htmlAttributes = new { id = "borc", @class = "form-control", placeholder = "Borç Giriniz" } })
+                        @Html.ValidationMessageFor(model => model.Borc, "", new { @class = "text-danger" })
+                    </div>
+                    <br />
+                    <label for="id ismi">Alacak </label>
+                    <div class="row">
+                        @Html.EditorFor(model => model.Alacak, new { htmlAttributes = new { @class = "form-control", placeholder = "Alacak Giriniz" } })
+                        @Html.ValidationMessageFor(model => model.Alacak, "", new { @class = "text-danger" })
+                    </div>
+                    <br />
+                    <label for="id ismi">Açıklama </label>
+                    <div class="row">
+                        @Html.EditorFor(model => model.Aciklama, new { htmlAttributes = new { @class = "form-control", placeholder = "Açıklama Giriniz" } })
+                        @Html.ValidationMessageFor(model => model.Aciklama, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="row button form-group">
+                        <div style="margin-left:10px;margin-right:10px;">
+                            <button type="submit" value="Create" style="color:white; Background:#31d660; border-color:white">Kaydet</button>
+                            <a href="@Url.Action("Index","CariHareketleri")" style="background:#f0d316; border-color:white; color:black;">İptal</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+    </div>
+</body>
+
+
+@section scripts1{
+    <script type="text/javascript">
+        window.onload = () => {
+
+            if ($("#IslemTuru").val() == "Ödeme") {
+                $("#borc").prop("disabled", false);
+                $("#borc").val("");
+            }
+            else if ($("#IslemTuru").val() != 'Ödeme') {
+                $("#borc").prop("disabled", true);
+                $("#borc").val("");
+            }
+
+            if ($("#IslemTuru").val() == 'Tahsilat') {
+                $("#Alacak").prop("disabled", false);
+                $("#Alacak").val("");
+            }
+            else if ($("#IslemTuru").val() != 'Tahsilat') {
+                $("#Alacak").prop("disabled", true);
+                $("#Alacak").val("");
+            }
+        }
+
+        $(document).ready(function () {
+            $("#IslemTuru").on("change", function () {
+                var selected = $(this).val();
+                if (selected == 'Ödeme') {
+                    $("#borc").prop("disabled", false);
+                    $("#borc").val("");
+                }
+                else if (selected != 'Ödeme') {
+                    $("#borc").prop("disabled", true);
+                    $("#borc").val("");
+                }
+
+                if (selected == 'Tahsilat') {
+                    $("#Alacak").prop("disabled", false);
+                    $("#Alacak").val("");
+                }
+                else if (selected != 'Tahsilat') {
+                    $("#Alacak").prop("disabled", true);
+                    $("#Alacak").val("");
+                }
+            });
+        });
+
+
+    </script>
+}
+
+
+@*@section scripts3{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#IslemTuru").change(function () {
+                $("#IslemTuru").select.val("Ödeme");
+            });
+            $("#IslemTipi").change(function () {
+                $("#IslemTipi").select.val("Kredi");
+            });
+        });
+    </script>
+}*@

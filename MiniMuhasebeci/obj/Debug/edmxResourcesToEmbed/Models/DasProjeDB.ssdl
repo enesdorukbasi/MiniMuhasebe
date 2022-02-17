@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DasProjeDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblCari">
+    <Key>
+      <PropertyRef Name="CariId" />
+    </Key>
+    <Property Name="CariId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Unvan" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Ad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Soyad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Adres" Type="nvarchar" MaxLength="50" />
+    <Property Name="Telefon" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblCariHareketleri">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CariId" Type="int" Nullable="false" />
+    <Property Name="Tarih" Type="datetime" Nullable="false" />
+    <Property Name="IslemTipi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="IslemTuru" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Borc" Type="money" />
+    <Property Name="Alacak" Type="money" />
+    <Property Name="Aciklama" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK__tblCariHa__CariI__25869641">
+    <End Role="tblCari" Type="Self.tblCari" Multiplicity="1" />
+    <End Role="tblCariHareketleri" Type="Self.tblCariHareketleri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblCari">
+        <PropertyRef Name="CariId" />
+      </Principal>
+      <Dependent Role="tblCariHareketleri">
+        <PropertyRef Name="CariId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DasProjeDBModelStoreContainer">
+    <EntitySet Name="tblCari" EntityType="Self.tblCari" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblCariHareketleri" EntityType="Self.tblCariHareketleri" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__tblCariHa__CariI__25869641" Association="Self.FK__tblCariHa__CariI__25869641">
+      <End Role="tblCari" EntitySet="tblCari" />
+      <End Role="tblCariHareketleri" EntitySet="tblCariHareketleri" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

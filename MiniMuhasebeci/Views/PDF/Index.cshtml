@@ -1,0 +1,66 @@
+﻿@using MiniMuhasebeci.Models
+@model List<tblCariHareketleri>
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MiniMuhasebePDF</title>
+    <script src="~/Scripts/PDFT.js"></script>
+    @*<script src="https://raw.githack.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js"></script>*@
+    <script src="~/Scripts/PDF.js"></script>
+</head>
+<body>
+    <button onclick="generatePDF()">PDF</button>
+    <div id="pdfConvert">
+        @foreach (var item in Model)
+        {
+            <div class="container" style="width:100%;">
+                <div class="col-md-offset-10" style="margin-left:70%;margin-right:20%;">
+                    <h2 id="CariAdSoyad">@item.tblCari.Ad @item.tblCari.Soyad</h2>
+                </div>
+
+                <div class="container" style="border-radius:3px; border:2px solid black; display:inline-block; margin-right:10%;margin-left:70%">
+                    <p style="margin-right:10%;margin-left:5%;">
+                        <strong>EVRAK NO : </strong> @item.Id
+                    </p>
+                    <p style="margin-right:10%;margin-left:5%;">
+                        <strong>İŞLEM TARİH : </strong> @item.Tarih
+                    </p>
+                    <p style="margin-right:10%;margin-left:5%;">
+                        <strong>İŞLEM TİPİ : </strong> @item.IslemTipi
+                    </p>
+                    <p style="margin-right:10%;margin-left:5%;">
+                        <strong>İŞLEM TÜRÜ :</strong> @item.IslemTuru
+                    </p>
+                </div>
+
+                <hr style="margin-left:10%;margin-right:10%;" />
+                <h1 style="margin-left:35%; margin-right:35%">CARİ İŞLEM MAKBUZU</h1>
+                <hr style="margin-left:10%;margin-right:10%;" />
+
+                @if (item.Alacak != null)
+                {
+                    <div class="container" style="margin-left:10%;margin-right:10%;">
+                        <h2>@item.tblCari.Unvan carisine @item.Alacak TL @item.IslemTuru / @item.IslemTipi işlem yapılmıştır.</h2>
+                    </div>
+                }
+                else
+                {
+                    <div class="container" style="margin-left:10%;margin-right:10%;">
+                        <h2> @item.tblCari.Ad @item.Borc TL @item.IslemTuru / @item.IslemTipi işlem yapılmıştır.</h2>
+                    </div>
+                }
+                <h2 style="margin-left:10%;margin-right:10%;">@item.IslemTuru Edilen</h2>
+                <h2 style="margin-right:10%;margin-left:10%;">@item.tblCari.Ad @item.tblCari.Soyad</h2>
+                <h2 style="margin-right:40%; margin-left:40%">Mali Değeri Yoktur.</h2>
+
+            </div>
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,105 @@
+﻿@model MiniMuhasebeci.Models.tblCariHareketleri
+@{
+}   
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<br /><br />
+<body>
+    <div>
+        <h4>@Html.DisplayFor(model=>model.tblCari.Unvan) Ünvalı Hareket</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+          <p>Ünvan:</p>
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.tblCari.Unvan)
+            </dd>
+
+            <br />
+            <dt>
+               <p>Tarih:</p>
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Tarih)
+            </dd>
+            <br />
+            <dt>
+               <p>İşlem Tipi:</p>
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.IslemTipi)
+            </dd>
+            <br />
+            <dt>
+                <p>İşlem Türü:</p>
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.IslemTuru)
+            </dd>
+            <br />
+            <dt>
+                <p>Borç:</p>
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Borc)
+            </dd>
+            <br />
+            <dt>
+                <p>Alacak:</p>
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Alacak)
+            </dd>
+            <br />
+            <dt>
+                <p>Açıklama:</p>
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Aciklama)
+            </dd>
+            <br />
+
+
+        </dl>
+    </div>
+    <p>
+        <a href="@Url.Action("Index","PDF", new { id = ViewBag.cariHareketId })" style="
+                background: #fff;
+                margin-right:10px;
+                text-decoration:none;
+                outline: none;
+                padding: 8px;
+                border-radius: 5px;
+                color: #d63031;
+                font-size: 20px;
+                font-weight: 700;
+                border: 1px solid #db1229;
+                cursor: pointer;">PDF</a>
+
+        <a href="@Url.Action("Index")" style="
+                background: #fff;
+                margin-right:10px;
+                text-decoration:none;
+                outline: none;
+                padding: 8px;
+                border-radius: 5px;
+                color: #d63031;
+                font-size: 20px;
+                font-weight: 700;
+                border: 1px solid #db1229;
+                cursor: pointer;">Geri</a>
+    </p>
+</body>
+</html>

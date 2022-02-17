@@ -1,0 +1,51 @@
+﻿@model MiniMuhasebeci.Models.tblCari
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<br /><br /><br />
+
+<p style="font-family: 'Poppins', sans-serif;font-size:20px">@Model.Ad @Model.Soyad cariyi silmek istiyor musunuz?</p>
+
+<br /><br /><br />
+
+<div style="align-items:center">
+    @using (Html.BeginForm("Delete", "Cari", FormMethod.Post, new { @class = "form-horizontal" }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-group" style="margin:auto auto;">
+            <div>
+                <button type="submit" value="Delete" style="
+                background: #db1229;
+                margin-left:10px;
+                height:45px;
+                outline: none;
+                padding: 8px;
+                border-radius: 5px;
+                border: 1px solid #ffffff;
+                color: #ffffff;
+                font-size: 20px;
+                font-weight: 700;
+                cursor: pointer;">
+                    Evet
+                </button>
+
+                <a href="@Url.Action("Index")" style="
+                background: #fff;
+                margin-right:10px;
+                text-decoration:none;
+                outline: none;
+                padding: 8px;
+                border-radius: 5px;
+                border: 1px solid #db1229;
+                color: #db1229;
+                font-size: 20px;
+                font-weight: 700;
+                cursor: pointer;">Hayır</a>
+
+
+            </div>
+        </div>
+    }
+</div>
